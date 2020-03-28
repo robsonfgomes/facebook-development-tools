@@ -8,4 +8,9 @@ footer {
 footer a {
     text-decoration: none;
     color: #333;    
+    transition: all .5s;
+}
+
+footer a:hover {
+    color: #4183c4;
 }
